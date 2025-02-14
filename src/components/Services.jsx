@@ -31,7 +31,7 @@ function Services() {
     <div id="services"
       className="flex flex-col justify-center items-center mt-12"
        >
-        <h1 className="text-[#eee] font-bold text[50px] lg:text-[95px]">Services</h1>
+        <h1 className="text-[#eee] font-bold text[48px] lg:text-[95px]">Services</h1>
         <p className="mt-[-45px] text-center text-[20px] font-[400] text-[#666]">
 
 Don &apos;t be busy, be  productive 
