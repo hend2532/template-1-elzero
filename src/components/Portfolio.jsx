@@ -42,9 +42,7 @@ function Portfolio() {
         ))
     }
     </div>
-    <div className='hidden lg:flex'>
-        <img src="/images/Portfolio.jpg" className='rounded-lg '/>
-    </div>
+ 
     </div>
     </div>
   )
