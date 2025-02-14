@@ -2,17 +2,17 @@
 function Portfolio() {
       const data=[
             {
-                icon:<img src="/public/images/portfolio-1.jpg"/>,
+                icon:<img src="/images/portfolio-1.jpg"/>,
                 title:"Project Here",
                 description:"My creative ability is very difficult to measure because it can manifest in so many surprising and.",
             },
             {
-                icon:<img src="/public/images/portfolio-2.jpg"/>,
+                icon:<img src="/images/portfolio-2.jpg"/>,
                 title:"Project Here",
                 description:"My creative ability is very difficult to measure because it can manifest in so many surprising and.",
             },
             {
-                icon:<img src="/public/images/portfolio-3.jpg"/>,
+                icon:<img src="/images/portfolio-3.jpg"/>,
                 title:"Project Here",
                 description:"My creative ability is very difficult to measure because it can manifest in so many surprising and.",
             },
@@ -43,7 +43,7 @@ function Portfolio() {
     }
     </div>
     <div className='hidden lg:flex'>
-        <img src="/public/images/Portfolio.jpg" className='rounded-lg '/>
+        <img src="/images/Portfolio.jpg" className='rounded-lg '/>
     </div>
     </div>
     </div>

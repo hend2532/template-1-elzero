@@ -13,7 +13,7 @@ function About() {
     </div>
     <div className='px-4 lg:px-48 flex flex-wrap justify-center items-center gap-8 p-3'>
     <div className=''>
-        <img src="/public/images/about.jpg" className='rounded-lg w-[300px] mt-8'/>
+        <img src="/images/about.jpg" className='rounded-lg w-[300px] mt-8'/>
     </div>
     <div className="text-[20px] text-center">
         <p className="font-[600] py-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil nemo neque voluptate tempora velit cum non, fuga vitae architecto delectus sed maxime rerum impedit aliquam obcaecati, aut excepturi iusto laudantium!</p>
