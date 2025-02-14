@@ -7,7 +7,7 @@ function Contact() {
         id="contact"
         className="flex flex-col justify-center items-center mt-12"
       >
-        <h1 className="text-[#eee] font-bold text-[95px]">Contact</h1>
+        <h1 className="text-[#eee] font-bold text[50px] lg:text-[95px]">Contact</h1>
         <p className="mt-[-45px] text-center text-[20px] font-[400] text-[#666]">
           We are born to create{" "}
         </p>
