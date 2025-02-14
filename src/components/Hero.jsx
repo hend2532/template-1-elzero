@@ -30,7 +30,7 @@ function Hero() {
         We are Leon - Super Creative & <br/> Minimal Agency Web Template  
         </p>
     </div>
-    <div className="px-4 lg:px-48 flex flex-wrap bg-[#f6f6f6] justify-between gap-10 p-16  ">
+    <div className="px-4 lg:px-48 flex flex-wrap bg-[#f6f6f6] justify-center lg:justify-between gap-10 p-16  ">
     {
         data.map((item,index)=>(
             <div key={index} className="flex flex-col text-center items-center justify-center gap-6 w-80 ">
